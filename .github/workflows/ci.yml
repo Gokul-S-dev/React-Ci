@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Say Hello
-        run: ecgo "Hello Github Actions!"
+        run: echo "Hello GitHub Actions!"
